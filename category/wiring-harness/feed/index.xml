@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Wiring Harness &#8211; Tecmen Autospares</title>
+	<atom:link href="/category/wiring-harness/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Tecmen Autospares</description>
+	<lastBuildDate>Sat, 12 May 2012 06:30:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Wiring Harness</title>
+		<link>/wiring-harness_250x250/</link>
+		
+		<dc:creator><![CDATA[tecmen]]></dc:creator>
+		<pubDate>Sat, 12 May 2012 06:17:28 +0000</pubDate>
+				<category><![CDATA[Wiring Harness]]></category>
+		<guid isPermaLink="false">/?p=813</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Wiring Harness</title>
+		<link>/wiring__harness__68847_zoom/</link>
+		
+		<dc:creator><![CDATA[tecmen]]></dc:creator>
+		<pubDate>Sat, 12 May 2012 06:16:33 +0000</pubDate>
+				<category><![CDATA[Wiring Harness]]></category>
+		<guid isPermaLink="false">/?p=810</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Wiring Harness</title>
+		<link>/0906rc_06_zthrottle_body_injectionwiring_harness/</link>
+		
+		<dc:creator><![CDATA[tecmen]]></dc:creator>
+		<pubDate>Sat, 12 May 2012 06:12:33 +0000</pubDate>
+				<category><![CDATA[Wiring Harness]]></category>
+		<guid isPermaLink="false">/?p=800</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Wiring Harness</title>
+		<link>/wiring-harness/</link>
+		
+		<dc:creator><![CDATA[tecmen]]></dc:creator>
+		<pubDate>Thu, 29 Dec 2011 08:10:25 +0000</pubDate>
+				<category><![CDATA[Wiring Harness]]></category>
+		<guid isPermaLink="false">/?p=148</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
